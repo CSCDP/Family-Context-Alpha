@@ -27,5 +27,5 @@ All outputs from the alpha phase of the Family Context project are available her
  
  * [Dummy referrals](https://github.com/SFDigiLabs/Family-Context-Alpha/tree/master/User%20research%20resources/Dummy%20referrals)
  * [Interview script](https://github.com/SFDigiLabs/Family-Context-Alpha/blob/master/User%20research%20resources/UR%20Interview%20Guide.pdf)
- * [Content of cards for sorting exercise](https://raw.githubusercontent.com/SFDigiLabs/Family-Context-Alpha/blob/master/User%20research%20resources/Card%20sort%20contents.xlsx)
+ * [Content of cards for sorting exercise](https://github.com/SFDigiLabs/Family-Context-Alpha/blob/master/User%20research%20resources/Card%20sort%20contents.xlsx)
  * [Prototypes for user research](https://github.com/SFDigiLabs/Family-Context-Alpha/tree/master/Prototypes/Prototypes%20for%20user%20research)
